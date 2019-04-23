@@ -3,3 +3,5 @@
 - docker
 - jenkins:lts
 
+## CI
+- hourly
