@@ -4,4 +4,4 @@
 - jenkins:lts
 
 ## CI
-- hourly
+- By webhook
